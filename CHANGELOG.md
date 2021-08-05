@@ -1,9 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "front-end-mega-extension-pack" extension pack will be documented in this file.
+Front End Mega Extensions Pack changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.7] - 2021-08-05
 
-## [Unreleased]
+### Removed
 
-- Initial release
+- Remove deprecated extentions
