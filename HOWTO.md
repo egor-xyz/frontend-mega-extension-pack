@@ -5,6 +5,6 @@
 * [Extension page](https://marketplace.visualstudio.com/items?itemName=egor-xyz.front-end-mega-extension-pack)
 
 ```shell
-vsce login egor-xyz
+vsce login egor-xyz``
 vsce publish
 ```
